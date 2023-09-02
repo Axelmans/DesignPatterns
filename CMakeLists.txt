@@ -3,4 +3,4 @@ project(DesignPatterns)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(DesignPatterns main.cpp src/adapter/Adapter.cpp src/bridge/Bridge.cpp)
+add_executable(DesignPatterns main.cpp src/adapter/Adapter.cpp src/bridge/Bridge.cpp src/command/Command.cpp)

@@ -22,7 +22,7 @@ using namespace std;
  *
  */
 
-namespace Bridge{
+namespace BridgePattern{
 
 
     /*

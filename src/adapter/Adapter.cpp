@@ -14,7 +14,7 @@ using namespace std;
  * EXAMPLE: Switching from UDP application to TCP application.
  */
 
-namespace Adapter {
+namespace AdapterPattern {
 
     /*
      * UDP interface and a concrete UDP application.
